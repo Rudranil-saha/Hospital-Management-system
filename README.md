@@ -17,5 +17,3 @@ A full-fledged **Hospital Management System** designed as a course project for D
 - **Frontend (Optional)**: PHP, HTML, CSS, Bootstrap
 - **Tooling**: XAMPP / MySQL Workbench
 
-## 🗂️ Project Structure
-
